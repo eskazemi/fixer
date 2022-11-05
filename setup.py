@@ -5,9 +5,9 @@ setup(
     name="fixer-demo",
     author="Esmaeil Kazemi",
     author_email="m.esmaeilkazemi@gmail.com",
+    url="https://github.com/eskazemi/fixer.git",
     packages=["fixer"],
     license="MIT",
     install_requires=['requests'],
-    url="#",
     zip_safe=False,
 )
